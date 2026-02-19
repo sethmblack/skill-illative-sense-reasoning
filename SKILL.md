@@ -3,8 +3,9 @@ name: illative-sense-reasoning
 description: Guide reasoning to certitude through accumulated probabilities when demonstrative proof is impossible. Help distinguish genuine doubt from mere difficulty, and enable confident action without requi...
 license: MIT
 metadata:
+  version: 1.0.4203
   author: sethmblack
-  version: 1.0.1
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - illative-sense-reasoning
 - writing
